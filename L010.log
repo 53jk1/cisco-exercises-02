@@ -1,0 +1,390 @@
+Thu Feb 10 17:07:58 2022: Starting Cisco Packet Tracer 7.3.1.0362
+Thu Feb 10 17:07:58 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Thu Feb 10 17:07:58 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Thu Feb 10 17:08:00 2022: Script Module starting: 
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.ActivitySequencer
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.clearTerminalAgent
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.Marvel
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.PcSoftware
+Thu Feb 10 17:08:01 2022: Script Module starting: net.netacad.cisco.PTINTERNAL
+Thu Feb 10 17:08:02 2022: Script Module starting: net.netacad.cisco.resource
+Thu Feb 10 17:08:02 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Thu Feb 10 17:08:02 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\util\analyticstracker.cpp(243):WARN  - error:203,url:https://analytics01.cisco.netacad.com/Service02/analytics/v1/heartbeat7/%7Bfbd167bb-b367-4236-9f9a-79fc5be37954%7D/windows/ptdesktop/7.3.1.0362/app%5Etrack%5Einit%5E0/,data:
+Thu Feb 10 17:08:02 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\util\analyticstracker.cpp(243):WARN  - error:203,url:https://analytics01.cisco.netacad.com/Service02/analytics/v1/heartbeat7/%7Bfbd167bb-b367-4236-9f9a-79fc5be37954%7D/windows/ptdesktop/7.3.1.0362/app%5Etrack%5Esession%5E1/,data:
+Thu Feb 10 17:08:02 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\util\analyticstracker.cpp(243):WARN  - error:203,url:https://analytics01.cisco.netacad.com/Service02/analytics/v1/heartbeat7/%7Bfbd167bb-b367-4236-9f9a-79fc5be37954%7D/windows/ptdesktop/7.3.1.0362/app%5Etrack-screen%5Elogical-workspace%5E0/,data:
+Thu Feb 10 17:08:02 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\engine\util\analyticstracker.cpp(243):WARN  - error:203,url:https://analytics01.cisco.netacad.com/Service02/analytics/v1/heartbeat7/%7Bfbd167bb-b367-4236-9f9a-79fc5be37954%7D/windows/ptdesktop/7.3.1.0362/app%5Etrack-screen%5Erealtime-mode%5E0/,data:
+Thu Feb 10 17:08:34 2022: Saving options...
+Thu Feb 10 17:08:34 2022: Options saved.
+Thu Feb 10 17:19:28 2022: Changed device name:  to Router0
+Thu Feb 10 17:19:28 2022: Changed device name:  to Power Distribution Device0
+Thu Feb 10 17:19:28 2022: Created device: Power Distribution Device0 model: Power Distribution Device
+Thu Feb 10 17:19:28 2022: Created device: Router0 model: 1941
+Thu Feb 10 17:19:29 2022: Changed device name:  to Router1
+Thu Feb 10 17:19:29 2022: Created device: Router1 model: 1941
+Thu Feb 10 17:19:31 2022: Changed device name:  to Router2
+Thu Feb 10 17:19:31 2022: Created device: Router2 model: 1941
+Thu Feb 10 17:19:46 2022: Changed device name:  to Switch0
+Thu Feb 10 17:19:46 2022: Created device: Switch0 model: 2960-24TT
+Thu Feb 10 17:19:48 2022: Changed device name:  to Switch1
+Thu Feb 10 17:19:48 2022: Created device: Switch1 model: 2960-24TT
+Thu Feb 10 17:19:51 2022: Changed device name:  to Switch2
+Thu Feb 10 17:19:51 2022: Created device: Switch2 model: 2960-24TT
+Thu Feb 10 17:20:04 2022: Changed device name:  to PC0
+Thu Feb 10 17:20:04 2022: Created device: PC0 model: PC-PT
+Thu Feb 10 17:20:11 2022: Changed device name:  to PC1
+Thu Feb 10 17:20:11 2022: Created device: PC1 model: PC-PT
+Thu Feb 10 17:20:15 2022: Changed device name:  to PC2
+Thu Feb 10 17:20:15 2022: Created device: PC2 model: PC-PT
+Thu Feb 10 17:20:34 2022: Changed device name: Router1 to R2
+Thu Feb 10 17:20:36 2022: Changed device name: Router0 to R1
+Thu Feb 10 17:20:38 2022: Changed device name: Router2 to R3
+Thu Feb 10 17:20:45 2022: Changed device name: Switch0 to S1
+Thu Feb 10 17:20:47 2022: Changed device name: Switch1 to S2
+Thu Feb 10 17:20:49 2022: Changed device name: Switch2 to S3
+Thu Feb 10 17:20:53 2022: Changed device name: PC0 to PC-A
+Thu Feb 10 17:20:56 2022: Changed device name: PC1 to PC-B
+Thu Feb 10 17:21:00 2022: Changed device name: PC2 to PC-C
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 2 x 2, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:41 2022: e:\cygdrive\e\eng-jenkins\workspace\team_ca-csr-sm-le-sgme\m_sgme_pt731_win64\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Thu Feb 10 17:25:49 2022: Link created: R1 Serial0/0/0 to R2 Serial0/0/0, 8106
+Thu Feb 10 17:25:54 2022: Link created: R2 Serial0/0/1 to R3 Serial0/0/1, 8106
+Thu Feb 10 17:26:42 2022: Link created: R1 GigabitEthernet0/1 to S1 FastEthernet0/5, 8100
+Thu Feb 10 17:27:52 2022: Link created: R3 GigabitEthernet0/1 to S3 FastEthernet0/5, 8100
+Thu Feb 10 17:27:59 2022: Link created: S1 FastEthernet0/6 to PC-A FastEthernet0, 8100
+Thu Feb 10 17:28:07 2022: Link created: S2 FastEthernet0/18 to PC-B FastEthernet0, 8100
+Thu Feb 10 17:28:14 2022: Link created: S3 FastEthernet0/18 to PC-C FastEthernet0, 8100
+Thu Feb 10 17:28:15 2022: Link deleted: S3 FastEthernet0/18 to PC-C FastEthernet0, 8100
+Thu Feb 10 17:28:17 2022: Link created: PC-C FastEthernet0 to S3 FastEthernet0/18, 8100
+Thu Feb 10 17:28:28 2022: Link created: S1 FastEthernet0/3 to S3 FastEthernet0/3, 8101
+Thu Feb 10 17:28:34 2022: Link created: S1 FastEthernet0/4 to S3 FastEthernet0/4, 8101
+Thu Feb 10 17:28:40 2022: Link created: S1 FastEthernet0/1 to S2 FastEthernet0/1, 8101
+Thu Feb 10 17:28:45 2022: Link created: S1 FastEthernet0/2 to S2 FastEthernet0/2, 8101
+Thu Feb 10 17:28:52 2022: Link created: S2 FastEthernet0/3 to S3 FastEthernet0/1, 8101
+Thu Feb 10 17:28:57 2022: Link created: S3 FastEthernet0/2 to S2 FastEthernet0/4, 8101
+Thu Feb 10 17:32:10 2022: R1: Router> enable
+Thu Feb 10 17:32:13 2022: R1: Router# erase startup-config
+Thu Feb 10 17:32:16 2022: R1: Router# reload
+Thu Feb 10 17:32:19 2022: R1: Router# reload
+Thu Feb 10 17:32:25 2022: R2: Router> enable
+Thu Feb 10 17:32:32 2022: R2: Router# erase startup-config
+Thu Feb 10 17:32:33 2022: R2: Router# reload
+Thu Feb 10 17:32:42 2022: R3: Router> enable
+Thu Feb 10 17:32:47 2022: R3: Router# erase startup-config
+Thu Feb 10 17:32:50 2022: R3: Router# reload
+Thu Feb 10 17:33:52 2022: S2: Switch> enable
+Thu Feb 10 17:33:59 2022: S2: Switch# erase startup-config
+Thu Feb 10 17:34:17 2022: S2: Switch# delete vlan.dat
+Thu Feb 10 17:34:20 2022: S2: Switch# reload
+Thu Feb 10 17:34:41 2022: S2: Switch> history
+Thu Feb 10 17:34:58 2022: S1: Switch> enable
+Thu Feb 10 17:35:02 2022: S1: Switch# erase startup-config
+Thu Feb 10 17:35:06 2022: S1: Switch# reload
+Thu Feb 10 17:35:12 2022: S3: Switch> enable
+Thu Feb 10 17:35:16 2022: S3: Switch# erase startup-config
+Thu Feb 10 17:35:26 2022: S3: Switch# delete vlan.dat
+Thu Feb 10 17:37:09 2022: S3: Switch# reload
+Thu Feb 10 17:38:16 2022: S2: Switch> enable
+Thu Feb 10 17:38:18 2022: S2: Switch# show flasj
+Thu Feb 10 17:38:20 2022: S2: Switch# show flash
+Thu Feb 10 17:38:32 2022: S1: Switch> enable
+Thu Feb 10 17:38:34 2022: S1: Switch# show flash
+Thu Feb 10 17:38:38 2022: S3: Switch> enable
+Thu Feb 10 17:38:40 2022: S3: Switch# show flash
+Thu Feb 10 17:40:07 2022: R1: Router> enable
+Thu Feb 10 17:40:08 2022: R1: Router# conf term
+Thu Feb 10 17:40:22 2022: R1: Router(config)# no ip domain-lookup
+Thu Feb 10 17:40:29 2022: R1: Router(config)# hostname R1
+Thu Feb 10 17:40:40 2022: R1: R1(config)# enable secret class
+Thu Feb 10 17:40:51 2022: R1: R1(config)# line console 0
+Thu Feb 10 17:40:54 2022: R1: R1(config-line)# password cisco
+Thu Feb 10 17:40:58 2022: R1: R1(config-line)# login
+Thu Feb 10 17:41:08 2022: R1: R1(config-line)# line vty 0 4
+Thu Feb 10 17:41:13 2022: R1: R1(config-line)# password cisco
+Thu Feb 10 17:41:14 2022: R1: R1(config-line)# login
+Thu Feb 10 17:41:24 2022: R1: R1(config-line)# exit
+Thu Feb 10 17:41:29 2022: R1: R1(config)# service password-encryption
+Thu Feb 10 17:41:56 2022: R1: R1(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:42:27 2022: R1: R1(config)# int g0/1
+Thu Feb 10 17:42:44 2022: R1: R1(config-if)# description Connection to S1
+Thu Feb 10 17:43:02 2022: R1: R1(config-if)# ip address 172.27.0.1 255.255.255.0
+Thu Feb 10 17:43:06 2022: R1: R1(config-if)# no shutdown
+Thu Feb 10 17:43:40 2022: R1: R1(config-if)# int s0/0/0
+Thu Feb 10 17:43:53 2022: R1: R1(config-if)# description Connection to R2
+Thu Feb 10 17:44:11 2022: R1: R1(config-if)# ip address 172.27.123.1 255.255.255.252
+Thu Feb 10 17:44:27 2022: R1: R1(config-if)# clock rate 128000
+Thu Feb 10 17:44:34 2022: R1: R1(config-if)# no shutdown
+Thu Feb 10 17:45:06 2022: R1: R1(config-if)# int loopback 1
+Thu Feb 10 17:45:23 2022: R1: R1(config-if)# ip address 172.27.1.1 255.255.255.0
+Thu Feb 10 17:45:27 2022: R1: R1(config-if)# int loopback 2
+Thu Feb 10 17:45:37 2022: R1: R1(config-if)# ip address 172.27.2.1 255.255.255.0
+Thu Feb 10 17:45:39 2022: R1: R1(config-if)# int loopback 3
+Thu Feb 10 17:45:51 2022: R1: R1(config-if)# ip address 172.27.3.1 255.255.255.0
+Thu Feb 10 17:46:28 2022: R2: Router> enable
+Thu Feb 10 17:46:30 2022: R2: Router# conf term
+Thu Feb 10 17:46:36 2022: R2: Router(config)# no ip domain-lookup
+Thu Feb 10 17:46:40 2022: R2: Router(config)# hostname R2
+Thu Feb 10 17:46:49 2022: R2: R2(config)# enable secret class
+Thu Feb 10 17:46:52 2022: R2: R2(config)# line console 0
+Thu Feb 10 17:46:56 2022: R2: R2(config-line)# password cisco
+Thu Feb 10 17:46:58 2022: R2: R2(config-line)# login
+Thu Feb 10 17:47:01 2022: R2: R2(config-line)# line vty 0 4
+Thu Feb 10 17:47:03 2022: R2: R2(config-line)# password cisco
+Thu Feb 10 17:47:04 2022: R2: R2(config-line)# login
+Thu Feb 10 17:47:05 2022: R2: R2(config-line)# exit
+Thu Feb 10 17:47:12 2022: R2: R2(config)# service password-encryption
+Thu Feb 10 17:47:31 2022: R2: R2(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:48:01 2022: R2: R2(config)# int s0/0/0
+Thu Feb 10 17:48:17 2022: R2: R2(config-if)# description Connection to R1
+Thu Feb 10 17:48:36 2022: R2: R2(config-if)# ip address 172.27.123.2 255.255.255.252
+Thu Feb 10 17:48:40 2022: R2: R2(config-if)# no shutdown
+Thu Feb 10 17:49:20 2022: R2: R2(config-if)# int s0/0/1
+Thu Feb 10 17:49:25 2022: R2: R2(config-if)# description Connection to R3
+Thu Feb 10 17:49:35 2022: R2: R2(config-if)# ip address 172.27.123.5 255.255.255.252
+Thu Feb 10 17:49:41 2022: R2: R2(config-if)# clock rate 128000
+Thu Feb 10 17:49:43 2022: R2: R2(config-if)# no shutdown
+Thu Feb 10 17:50:26 2022: R2: R2(config-if)# int loopback 0
+Thu Feb 10 17:50:49 2022: R2: R2(config-if)# ip address 209.165.200.225 255.255.255.248
+Thu Feb 10 17:51:05 2022: R2: R2(config-if)# description Simulated Connection to Internet
+Thu Feb 10 17:51:36 2022: R2: R2(config-if)# exit
+Thu Feb 10 17:51:49 2022: R2: R2(config)# ip route 0.0.0.0 0.0.0.0 loopback 0
+Thu Feb 10 17:52:19 2022: R3: Router> enable
+Thu Feb 10 17:52:22 2022: R3: Router# conf term
+Thu Feb 10 17:52:40 2022: R3: Router(config)# no ip domain-lookup
+Thu Feb 10 17:52:43 2022: R3: Router(config)# hostname R3
+Thu Feb 10 17:52:50 2022: R3: R3(config)# enable secret class
+Thu Feb 10 17:52:52 2022: R3: R3(config)# line console 0
+Thu Feb 10 17:52:54 2022: R3: R3(config-line)# pasword cisco
+Thu Feb 10 17:52:57 2022: R3: R3(config-line)# password cisco
+Thu Feb 10 17:53:01 2022: R3: R3(config-line)# login line vty 0 4
+Thu Feb 10 17:53:04 2022: R3: R3(config-line)# login
+Thu Feb 10 17:53:07 2022: R3: R3(config-line)# line vty 0 4
+Thu Feb 10 17:53:09 2022: R3: R3(config-line)# password cisco
+Thu Feb 10 17:53:10 2022: R3: R3(config-line)# login
+Thu Feb 10 17:53:11 2022: R3: R3(config-line)# exit
+Thu Feb 10 17:53:14 2022: R3: R3(config)# service password-encryption
+Thu Feb 10 17:53:30 2022: R3: R3(config)# motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:53:53 2022: R3: R3(config)# bannner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:53:58 2022: R3: R3(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:54:28 2022: R3: R3(config)# int g0/1
+Thu Feb 10 17:54:33 2022: R3: R3(config-if)# description Connection to S3
+Thu Feb 10 17:54:43 2022: R3: R3(config-if)# ip address 172.27.0.3 255.255.255.0
+Thu Feb 10 17:54:45 2022: R3: R3(config-if)# no shutdown
+Thu Feb 10 17:55:14 2022: R3: R3(config-if)# int s0/0/1
+Thu Feb 10 17:55:22 2022: R3: R3(config-if)# description Connection to R2
+Thu Feb 10 17:55:41 2022: R3: R3(config-if)# ip address 172.27.123.6 255.255.255.252
+Thu Feb 10 17:55:44 2022: R3: R3(config-if)# no shutdown
+Thu Feb 10 17:56:18 2022: R3: R3(config-if)# int loopback 4
+Thu Feb 10 17:56:30 2022: R3: R3(config-if)# ip address 172.27.4.1 255.255.255.0
+Thu Feb 10 17:56:36 2022: R3: R3(config-if)# int loopback 5
+Thu Feb 10 17:56:44 2022: R3: R3(config-if)# ip address 172.27.5.1 255.255.255.0
+Thu Feb 10 17:56:53 2022: R3: R3(config-if)# ip address 172.27.6.1 255.255.255.0
+Thu Feb 10 17:57:20 2022: S1: Switch> enable
+Thu Feb 10 17:57:22 2022: S1: Switch# conf term
+Thu Feb 10 17:57:35 2022: S1: Switch(config)# no ip domain-lookup
+Thu Feb 10 17:57:39 2022: S1: Switch(config)# hostname S1
+Thu Feb 10 17:57:43 2022: S1: S1(config)# enable secret class
+Thu Feb 10 17:57:48 2022: S1: S1(config)# line console 0
+Thu Feb 10 17:57:50 2022: S1: S1(config-line)# password cisco
+Thu Feb 10 17:57:56 2022: S1: S1(config-line)# login
+Thu Feb 10 17:57:59 2022: S1: S1(config-line)# line vty 0 4
+Thu Feb 10 17:58:02 2022: S1: S1(config-line)# password cisco
+Thu Feb 10 17:58:04 2022: S1: S1(config-line)# login
+Thu Feb 10 17:58:06 2022: S1: S1(config-line)# exit
+Thu Feb 10 17:58:11 2022: S1: S1(config)# service password-encryption
+Thu Feb 10 17:58:29 2022: S1: S1(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 17:59:05 2022: S1: S1(config)# int vlan 1
+Thu Feb 10 17:59:13 2022: S1: S1(config-if)# ip address 172.27.0.11 255.255.255.0
+Thu Feb 10 17:59:17 2022: S1: S1(config-if)# no shutdown
+Thu Feb 10 17:59:47 2022: S1: S1(config-if)# exit
+Thu Feb 10 17:59:56 2022: S1: S1(config)# ip default-gateway 172.27.0.2
+Thu Feb 10 18:00:44 2022: S1: S1(config)# int range f0/1-4
+Thu Feb 10 18:00:49 2022: S1: S1(config-if-range)# switchport mode trunk
+Thu Feb 10 18:01:05 2022: S1: S1(config-if-range)# switchport trunk native vlan 1
+Thu Feb 10 18:01:56 2022: S1: S1(config-if-range)# int range f0/5-24, g0/1-2
+Thu Feb 10 18:02:13 2022: S1: S1(config-if-range)# switchport mode access
+Thu Feb 10 18:02:29 2022: S1: S1(config-if-range)# switchport nonegotiate
+Thu Feb 10 18:03:02 2022: S1: S1(config-if-range)# int range f0/7-24, g0/1-2
+Thu Feb 10 18:03:18 2022: S1: S1(config-if-range)# shutdown
+Thu Feb 10 18:03:42 2022: S2: Switch> enable
+Thu Feb 10 18:03:44 2022: S2: Switch# conf term
+Thu Feb 10 18:03:55 2022: S2: Switch(config)# no ip domain-lookup
+Thu Feb 10 18:03:56 2022: S2: Switch(config)# hostname S2
+Thu Feb 10 18:03:59 2022: S2: S2(config)# enable secret class
+Thu Feb 10 18:04:01 2022: S2: S2(config)# line console 0
+Thu Feb 10 18:04:03 2022: S2: S2(config-line)# password cisco
+Thu Feb 10 18:04:04 2022: S2: S2(config-line)# login
+Thu Feb 10 18:04:09 2022: S2: S2(config-line)# line vty 0 4
+Thu Feb 10 18:04:11 2022: S2: S2(config-line)# password cisco
+Thu Feb 10 18:04:12 2022: S2: S2(config-line)# login
+Thu Feb 10 18:04:13 2022: S2: S2(config-line)# exit
+Thu Feb 10 18:04:16 2022: S2: S2(config)# service password-encryption
+Thu Feb 10 18:04:26 2022: S2: S2(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 18:04:39 2022: S2: S2(config)# int vlan 1
+Thu Feb 10 18:04:46 2022: S2: S2(config-if)# ip address 172.27.0.12 255.255.255.0
+Thu Feb 10 18:04:48 2022: S2: S2(config-if)# no shutdown
+Thu Feb 10 18:04:51 2022: S2: S2(config-if)# exit
+Thu Feb 10 18:05:00 2022: S2: S2(config)# ip default-gateway 172.27.0.2
+Thu Feb 10 18:05:14 2022: S2: S2(config)# int range f0/1-4
+Thu Feb 10 18:05:16 2022: S2: S2(config-if-range)# switchport mode trunk
+Thu Feb 10 18:05:23 2022: S2: S2(config-if-range)# switchport trunk native vlan 1
+Thu Feb 10 18:05:39 2022: S2: S2(config-if-range)# int range f0/5-24, g0/1-2
+Thu Feb 10 18:05:43 2022: S2: S2(config-if-range)# switchport mode access
+Thu Feb 10 18:05:47 2022: S2: S2(config-if-range)# switchport nonegotitate
+Thu Feb 10 18:05:56 2022: S2: S2(config-if-range)# switchport nonegotitate
+Thu Feb 10 18:05:58 2022: S2: S2(config-if-range)# switchport nonegotiate
+Thu Feb 10 18:06:18 2022: S2: S2(config-if-range)# int range f0/5-17, f0/19-24, g0/1-2
+Thu Feb 10 18:06:20 2022: S2: S2(config-if-range)# shutdown
+Thu Feb 10 18:06:35 2022: S3: Switch> enable
+Thu Feb 10 18:06:37 2022: S3: Switch# conf term
+Thu Feb 10 18:06:43 2022: S3: Switch(config)# no ip domain-lookup
+Thu Feb 10 18:06:45 2022: S3: Switch(config)# hostname S3
+Thu Feb 10 18:06:48 2022: S3: S3(config)# enable secret class
+Thu Feb 10 18:06:50 2022: S3: S3(config)# line console 0
+Thu Feb 10 18:06:52 2022: S3: S3(config-line)# password cisco
+Thu Feb 10 18:06:53 2022: S3: S3(config-line)# login
+Thu Feb 10 18:06:55 2022: S3: S3(config-line)# line vty 0 4
+Thu Feb 10 18:06:57 2022: S3: S3(config-line)# password cisco
+Thu Feb 10 18:06:58 2022: S3: S3(config-line)# login
+Thu Feb 10 18:06:59 2022: S3: S3(config-line)# exit
+Thu Feb 10 18:07:03 2022: S3: S3(config)# service password-encryption
+Thu Feb 10 18:07:11 2022: S3: S3(config)# banner motd &Unauthorized Access is Prohibited!&
+Thu Feb 10 18:07:19 2022: S3: S3(config)# int vlan 1
+Thu Feb 10 18:07:28 2022: S3: S3(config-if)# ip address 172.27.0.13 255.255.255.0
+Thu Feb 10 18:07:29 2022: S3: S3(config-if)# no shutdown
+Thu Feb 10 18:07:34 2022: S3: S3(config-if)# exit
+Thu Feb 10 18:07:42 2022: S3: S3(config)# ip default-gateway 172.27.0.2
+Thu Feb 10 18:07:56 2022: S3: S3(config)# int range f0/1-4
+Thu Feb 10 18:07:58 2022: S3: S3(config-if-range)# switchport mode trunk
+Thu Feb 10 18:08:05 2022: S3: S3(config-if-range)# switchport trunk native vlan 1
+Thu Feb 10 18:08:12 2022: S3: S3(config-if-range)# exit
+Thu Feb 10 18:08:21 2022: S3: S3(config)# int range f0/5-24, g0/1-2
+Thu Feb 10 18:08:23 2022: S3: S3(config-if-range)# switchport mode access
+Thu Feb 10 18:08:27 2022: S3: S3(config-if-range)# switchport nonegotiate
+Thu Feb 10 18:08:53 2022: S3: S3(config-if-range)# int range f0/6-17, f0/19-24, g0/1-2
+Thu Feb 10 18:08:59 2022: S3: S3(config-if-range)# shutdown
+Thu Feb 10 18:12:10 2022: S1: S1> enable
+Thu Feb 10 18:12:31 2022: S1: S1# conf term
+Thu Feb 10 18:12:38 2022: S1: S1(config)# spanning-tree mode rapid-pvst
+Thu Feb 10 18:12:50 2022: S1: S1(config)# spanning-tree vlan 1 root primary
+Thu Feb 10 18:13:00 2022: S1: S1(config)# int f0/6
+Thu Feb 10 18:13:04 2022: S1: S1(config-if)# spanning-tree portfast
+Thu Feb 10 18:13:12 2022: S1: S1(config-if)# spanning-tree bpduguard enable
+Thu Feb 10 18:17:00 2022: S2: S2> enable
+Thu Feb 10 18:17:05 2022: S2: S2# conf term
+Thu Feb 10 18:17:11 2022: S2: S2(config)# spanning-tree mode rapid-pvst
+Thu Feb 10 18:17:17 2022: S2: S2(config)# int f0/18
+Thu Feb 10 18:17:21 2022: S2: S2(config-if)# spanning-tree portfast
+Thu Feb 10 18:17:31 2022: S2: S2(config-if)# spanning-tree bpdguard enable
+Thu Feb 10 18:17:39 2022: S2: S2(config-if)# spanning-tree bpduguard enable
+Thu Feb 10 18:19:13 2022: S3: S3> enable
+Thu Feb 10 18:19:23 2022: S3: S3# conf term
+Thu Feb 10 18:19:31 2022: S3: S3(config)# spanning-tree mode rapid-pvst
+Thu Feb 10 18:19:38 2022: S3: S3(config)# spanning-tree vlan 1 root secondary
+Thu Feb 10 18:19:52 2022: S3: S3(config)# int f0/18
+Thu Feb 10 18:19:56 2022: S3: S3(config-if)# spanning-tree portfast
+Thu Feb 10 18:20:02 2022: S3: S3(config-if)# spanning-tree bpduguard enable
+Thu Feb 10 18:20:18 2022: R1: R1> enable
+Thu Feb 10 18:20:23 2022: R1: R1# term
+Thu Feb 10 18:20:25 2022: R1: R1# conf term
+Thu Feb 10 18:20:28 2022: R1: R1(config)# int g0/1
+Thu Feb 10 18:20:42 2022: R1: R1(config-if)# standby 1 ip 172.27.0.2
+Thu Feb 10 18:20:52 2022: R1: R1(config-if)# standby 1 priority 150
+Thu Feb 10 18:21:06 2022: R1: R1(config-if)# standby 1 prompt
+Thu Feb 10 18:21:14 2022: R1: R1(config-if)# standby 1 preempt
+Thu Feb 10 18:21:27 2022: R3: R3> conf term
+Thu Feb 10 18:21:28 2022: R3: R3> enable
+Thu Feb 10 18:21:33 2022: R3: R3> enable
+Thu Feb 10 18:21:39 2022: R3: R3# conf term
+Thu Feb 10 18:21:40 2022: R3: R3(config)# int f0/1
+Thu Feb 10 18:21:46 2022: R3: R3(config)# int g0/1
+Thu Feb 10 18:21:57 2022: R3: R3(config-if)# standby 1 ip 172.27.0.2
+Thu Feb 10 18:22:08 2022: R3: R3(config-if)# exit
+Thu Feb 10 18:22:37 2022: S1: S1(config-if)# exit
+Thu Feb 10 18:22:41 2022: S1: S1(config)# int range f0/3-4
+Thu Feb 10 18:22:44 2022: S1: S1(config-if-range)# channel-group 1 mode active
+Thu Feb 10 18:23:01 2022: S3: S3(config-if)# exit
+Thu Feb 10 18:23:06 2022: S3: S3(config)# int range f0/3-4
+Thu Feb 10 18:23:13 2022: S3: S3(config-if-range)# channel-group 1 mode passive
+Thu Feb 10 18:24:00 2022: R1: R1> enable
+Thu Feb 10 18:24:05 2022: R1: R1> conf term
+Thu Feb 10 18:24:07 2022: R1: R1> ospf 1
+Thu Feb 10 18:24:09 2022: R1: R1> enable
+Thu Feb 10 18:24:13 2022: R1: R1# conf term
+Thu Feb 10 18:24:16 2022: R1: R1(config)# router ospf 1
+Thu Feb 10 18:24:22 2022: R1: R1(config-router)# router-id 1.1.1.1
+Thu Feb 10 18:24:25 2022: R1: R1(config-router)# do show ip route connected
+Thu Feb 10 18:24:38 2022: R1: R1(config-router)# network 172.27.0.0 0.0.0.255 area 0
+Thu Feb 10 18:24:47 2022: R1: R1(config-router)# network 172.27.1.0 0.0.0.255 area 1
+Thu Feb 10 18:25:00 2022: R1: R1(config-router)# network 172.27.2.0 0.0.0.255 area 1
+Thu Feb 10 18:25:07 2022: R1: R1(config-router)# network 172.27.3.0 0.0.0.255 area 1
+Thu Feb 10 18:25:32 2022: R1: R1(config-router)# network 172.27.123.0 0.0.0.3 area 0
+Thu Feb 10 18:25:37 2022: R1: R1(config-router)# passive-interface g0/1
+Thu Feb 10 18:25:41 2022: R1: R1(config-router)# passive-interface Lo 1
+Thu Feb 10 18:25:42 2022: R1: R1(config-router)# passive-interface Lo 2
+Thu Feb 10 18:25:43 2022: R1: R1(config-router)# passive-interface Lo 3
+Thu Feb 10 18:26:38 2022: R1: R1(config-router)# area 1 range 172.27.0.0 255.255.252.0
+Thu Feb 10 18:26:52 2022: R1: R1(config-router)# auto-cost reference-bandwith 1000
+Thu Feb 10 18:26:58 2022: R1: R1(config-router)# auto-cost reference-bandwidth 1000
+Thu Feb 10 18:27:02 2022: R1: R1(config-router)# exit
+Thu Feb 10 18:27:05 2022: R1: R1(config)# int s0/0/0
+Thu Feb 10 18:27:09 2022: R1: R1(config-if)# bandwidth 128
+Thu Feb 10 18:27:14 2022: R1: R1(config-if)# ip ospf cost 7500
+Thu Feb 10 18:27:23 2022: R1: R1(config-if)# ip ospf authentication message-digest
+Thu Feb 10 18:27:36 2022: R1: R1(config-if)# ip ospf message-digest-key 1 md5 CISCO
+Thu Feb 10 18:27:51 2022: R2: R2> enable
+Thu Feb 10 18:27:55 2022: R2: R2# conf term
+Thu Feb 10 18:27:59 2022: R2: R2(config)# router ospf 1
+Thu Feb 10 18:28:02 2022: R2: R2(config-router)# router-id 2.2.2.2
+Thu Feb 10 18:28:07 2022: R2: R2(config-router)# do show ip route connected
+Thu Feb 10 18:28:24 2022: R2: R2(config-router)# network 172.27.123.0 0.0.0.3 area 0
+Thu Feb 10 18:28:31 2022: R2: R2(config-router)# netowrk 172.27.123.4 0.0.0.3 area 0
+Thu Feb 10 18:28:37 2022: R2: R2(config-router)# network 172.27.123.4 0.0.0.3 area 0
+Thu Feb 10 18:28:41 2022: R2: R2(config-router)# default-information originate
+Thu Feb 10 18:28:52 2022: R2: R2(config-router)# auto-cost reference-bandwidth 1000
+Thu Feb 10 18:28:58 2022: R2: R2(config-router)# exit
+Thu Feb 10 18:29:02 2022: R2: R2(config)# int s0/0/0
+Thu Feb 10 18:29:07 2022: R2: R2(config-if)# bandwidth 128
+Thu Feb 10 18:29:09 2022: R2: R2(config-if)# int s0/0/1
+Thu Feb 10 18:29:13 2022: R2: R2(config-if)# bandwidth 128
+Thu Feb 10 18:29:16 2022: R2: R2(config-if)# int s0/0/0
+Thu Feb 10 18:29:19 2022: R2: R2(config-if)# ip ospf cost 7500
+Thu Feb 10 18:29:23 2022: R2: R2(config-if)# int s0/0/0
+Thu Feb 10 18:29:29 2022: R2: R2(config-if)# ip ospf authentication message-digest
+Thu Feb 10 18:29:42 2022: R2: R2(config-if)# ip ospf message-digest-key 1 md5 CISCO
+Thu Feb 10 18:29:57 2022: R2: R2(config-if)# int s0/0/1
+Thu Feb 10 18:30:04 2022: R2: R2(config-if)# ip ospf authentication message-digest
+Thu Feb 10 18:30:12 2022: R2: R2(config-if)# ip ospf message-digest-key 1 md5 CISCO
+Thu Feb 10 18:30:32 2022: R3: R3> enable
+Thu Feb 10 18:30:37 2022: R3: R3> enable
+Thu Feb 10 18:30:39 2022: R3: R3# conf term
+Thu Feb 10 18:30:42 2022: R3: R3(config)# router ospf 1
+Thu Feb 10 18:30:47 2022: R3: R3(config-router)# router-id 3.3.3.3
+Thu Feb 10 18:30:51 2022: R3: R3(config-router)# do show ip route connected
+Thu Feb 10 18:31:01 2022: R3: R3(config-router)# network 172.27.0.0 0.0.0.255 area 0
+Thu Feb 10 18:31:10 2022: R3: R3(config-router)# network 172.27.4.0 0.0.0.255 area 3
+Thu Feb 10 18:31:19 2022: R3: R3(config-router)# network 172.27.5.0 0.0.0.255 area 3
+Thu Feb 10 18:31:27 2022: R3: R3(config-router)# netowrk 172.27.6.0 0.0.0.255 area 3
+Thu Feb 10 18:31:35 2022: R3: R3(config-router)# network 172.27.6.0 0.0.0.255 area 3
+Thu Feb 10 18:32:05 2022: R3: R3(config-router)# network 172.27.123.4 0.0.0.3 area 0
+Thu Feb 10 18:32:12 2022: R3: R3(config-router)# passive-interface g0/1
+Thu Feb 10 18:32:16 2022: R3: R3(config-router)# passive-interface Lo 4
+Thu Feb 10 18:32:17 2022: R3: R3(config-router)# passive-interface Lo 5
+Thu Feb 10 18:32:17 2022: R3: R3(config-router)# passive-interface Lo 6
+Thu Feb 10 18:32:37 2022: R3: R3(config-router)# area 3 range 172.27.4.0 255.255.252.0
+Thu Feb 10 18:32:45 2022: R3: R3(config-router)# auto-cost reference-bandwidth 1000
+Thu Feb 10 18:32:56 2022: R3: R3(config-router)# exit
+Thu Feb 10 18:33:01 2022: R3: R3(config)# int s0/0/1
+Thu Feb 10 18:33:04 2022: R3: R3(config-if)# bandwidth 128
+Thu Feb 10 18:33:12 2022: R3: R3(config-if)# ip ospf authentication message-digest
+Thu Feb 10 18:33:22 2022: R3: R3(config-if)# ip ospf message-digest-key 1 md5 CISCO
+Thu Feb 10 18:33:35 2022: R3: R3(config-if)# exit
+Thu Feb 10 18:33:39 2022: R3: R3(config)# end
